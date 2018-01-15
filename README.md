@@ -1,6 +1,6 @@
 # React-Review Code Challenge
 
-Your challenge is to create a simple instagram post component that can be reused to contains any photo and caption.
+Your challenge is to create a simple instagram post component that can be reused to contain any photo and caption. 
 
 ![insta-example](./public/insta-example.png)
 
